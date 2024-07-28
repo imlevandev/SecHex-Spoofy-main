@@ -1,0 +1,26 @@
+14:21:22: ID mac -  MAC Address {07E8A2F8-06B9-4758-9528-1C58701D52D4} - Before: 
+14:21:22: ID mac -  MAC Address {07E8A2F8-06B9-4758-9528-1C58701D52D4} - After: 8A-B6-A7-D9-4D-CC
+14:21:22: ID mac -  MAC Address: Restarting NetAdapter...
+14:21:22: ID mac -  MAC Address: NetAdapter restartet.
+14:21:22: ID mac -  MAC Address {EC143BF7-F5E5-48D3-B2AE-60A75A69D505} - Before: 
+14:21:22: ID mac -  MAC Address {EC143BF7-F5E5-48D3-B2AE-60A75A69D505} - After: 1A-51-A1-2B-82-A3
+14:21:22: ID mac -  MAC Address: Restarting NetAdapter...
+14:21:22: ID mac -  MAC Address: NetAdapter restartet.
+14:21:22: ID guid -  HwProfileGuid - Before: {a5153208-a22f-11ea-aece-806e6f6e6963}
+14:21:22: ID guid -  HwProfileGuid - After: 149baae7-d340-47b1-91b8-e21f64d536ce
+14:21:22: ID ChangeMachineGuid -  Machine GUID - Before: 000fc321-3427-43a1-9fb2-afac6a0ffaa2
+14:21:22: ID ChangeMachineGuid -  Machine GUID - After: 2450r481-o948-x765-p075-r9466p11
+14:21:22: ID pcname -  ComputerName - Before: EDP
+14:21:22: ID pcname -  ComputerName - After: SecHex-LBSPIMN
+14:21:22: ID display -  Display ID - Before: 
+14:21:22: ID display -  Display ID - After: 7
+14:21:22: ID efi -  EFI Variable ID - Before: 
+14:21:22: ID efi -  EFI Variable ID - After: 5d6988f9-abf4-41fb-986f-462d8e8da3c6
+14:21:22: ID smbios -  SMBIOS SystemSerialNumber - Before: 
+14:21:22: ID smbios -  SMBIOS SystemSerialNumber - After: EBYI014V2T
+14:21:22: ID product -  Product ID - Before: 00330-80000-00000-AA487
+14:21:22: ID product -  Product ID - After: 65701-90047-26839-G0
+14:21:22: ID bios_release -  BIOSReleaseDate - Before: 08/28/2020
+14:21:22: ID bios_release -  BIOSReleaseDate - After: 09/05/2019
+14:21:22: ID guid -  MachineId - Before: {535AED41-B4A8-437C-BA97-B29B7CC776CB}
+14:21:22: ID guid -  MachineId - After: d64fd9a6-fe2e-4f0c-ad26-bdbdc1464654

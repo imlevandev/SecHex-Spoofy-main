@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\bin\Debug\net6.0\RPZ-HWID.exe
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\bin\Debug\net6.0\RPZ-HWID.deps.json
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\bin\Debug\net6.0\RPZ-HWID.runtimeconfig.json
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\bin\Debug\net6.0\RPZ-HWID.dll
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\bin\Debug\net6.0\RPZ-HWID.pdb
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.dll
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\refint\RPZ-HWID.dll
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.pdb
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\RPZ-HWID.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SecHex-Spoofy-main\SecHex-Spoofy-main\SecHex-CMDLINE\RPZ-HWID\obj\Debug\net6.0\ref\RPZ-HWID.dll
