@@ -1,7 +1,7 @@
 # SecHex-Spoofy [1.5.8] [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]()
 
 Simple HWID-Changer 🔑︎
-Một số dòng của Phiên bản CLI đến từ @LockBlock-dev
+Một số dòng của Phiên bản CLI đến từ @imdev
 
 **Windows 11** Phiên bản 10.0.22621 Bản dựng 22621 ✅
 **Windows 10** Phiên bản 22H2 Bản dựng 19045.2965 ✅
