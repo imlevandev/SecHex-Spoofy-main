@@ -37,7 +37,7 @@ Hiện tại tôi vẫn đang học và spoofer còn lâu mới hoàn hảo 100%
 • Dọn dẹp Cache của Ubisoft
 
 + **Valorant cache cleaner** - [19.05.23]
-• Dọn dẹp Cache của Riot Games
+• Dọn dẹp Cache của Riot Game
 
 + **Installation ID Spoofing** - [26.05.23]
 • Cố gắng giả mạo Windows ID bằng cách thay đổi giá trị sổ đăng ký MachineGuid.
