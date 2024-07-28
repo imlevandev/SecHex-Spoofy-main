@@ -1,4 +1,4 @@
-# SecHex-Spoofy [1.5.8] [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]()
+# IMDEV-Spoofy [1.5.8] [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]()
 
 Simple HWID-Changer 🔑︎
 Một số dòng của Phiên bản CLI đến từ @imdev
